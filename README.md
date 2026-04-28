@@ -33,6 +33,12 @@ orders, sales, profit, regions, product categories and sub-categories.
 - Written business findings
 - Actionable recommendations for senior leadership
 
+## Dashboard Screenshots
+
+![Overview](Screenshot%20(294).png)
+![Profit Analysis](Screenshot%20(295).png)
+![Findings](Screenshot%20(296).png)
+
 ## Key Findings
 - Despite $2.3M in total sales, profit is only $286K — a thin margin problem
 - West region leads in both sales and profit
